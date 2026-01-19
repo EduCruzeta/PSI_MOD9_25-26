@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Ex_1_mod_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF6A7BF-EAA9-474B-BE54-E53B4BC12F27}|Ex_1_mod_9\\Ex_1_mod_9.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\ex_1_mod_9\\ex_1_mod_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF6A7BF-EAA9-474B-BE54-E53B4BC12F27}|Ex_1_mod_9\\Ex_1_mod_9.csproj|solutionrelative:ex_1_mod_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF6A7BF-EAA9-474B-BE54-E53B4BC12F27}|Ex_1_mod_9\\Ex_1_mod_9.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\ex_1_mod_9\\ex_1_mod_9\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF6A7BF-EAA9-474B-BE54-E53B4BC12F27}|Ex_1_mod_9\\Ex_1_mod_9.csproj|solutionrelative:ex_1_mod_9\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Ex_1_mod_9\\Ex_1_mod_9\\Aluno.cs",
+              "RelativeDocumentMoniker": "Ex_1_mod_9\\Aluno.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Ex_1_mod_9\\Ex_1_mod_9\\Aluno.cs",
+              "RelativeToolTip": "Ex_1_mod_9\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:03:04.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Ex_1_mod_9\\Ex_1_mod_9\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_1_mod_9\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Ex_1_mod_9\\Ex_1_mod_9\\Program.cs",
+              "RelativeToolTip": "Ex_1_mod_9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:54:55.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

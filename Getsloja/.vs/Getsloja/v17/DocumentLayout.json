@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Getsloja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F54AD-AD81-4E30-922D-B0F15DCCF9C3}|Getsloja\\Getsloja.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\getsloja\\getsloja\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F54AD-AD81-4E30-922D-B0F15DCCF9C3}|Getsloja\\Getsloja.csproj|solutionrelative:getsloja\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F54AD-AD81-4E30-922D-B0F15DCCF9C3}|Getsloja\\Getsloja.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\getsloja\\getsloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F54AD-AD81-4E30-922D-B0F15DCCF9C3}|Getsloja\\Getsloja.csproj|solutionrelative:getsloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F54AD-AD81-4E30-922D-B0F15DCCF9C3}|Getsloja\\Getsloja.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\getsloja\\getsloja\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F54AD-AD81-4E30-922D-B0F15DCCF9C3}|Getsloja\\Getsloja.csproj|solutionrelative:getsloja\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Getsloja\\Getsloja\\Program.cs",
+              "RelativeDocumentMoniker": "Getsloja\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Getsloja\\Getsloja\\Program.cs",
+              "RelativeToolTip": "Getsloja\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:17:18.411Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Getsloja\\Getsloja\\Produto.cs",
+              "RelativeDocumentMoniker": "Getsloja\\Produto.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Getsloja\\Getsloja\\Produto.cs",
+              "RelativeToolTip": "Getsloja\\Produto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:32:15.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loja.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Getsloja\\Getsloja\\loja.cs",
+              "RelativeDocumentMoniker": "Getsloja\\loja.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Getsloja\\Getsloja\\loja.cs",
+              "RelativeToolTip": "Getsloja\\loja.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:18:50.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\gestveiculo\\gestveiculo\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|solutionrelative:gestveiculo\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\gestveiculo\\gestveiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|solutionrelative:gestveiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\gestveiculo\\gestveiculo\\propriatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|solutionrelative:gestveiculo\\propriatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\gestveiculo\\gestveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}|GestVeiculo\\GestVeiculo.csproj|solutionrelative:gestveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Automovel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Automovel.cs",
+              "RelativeDocumentMoniker": "GestVeiculo\\Automovel.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Automovel.cs",
+              "RelativeToolTip": "GestVeiculo\\Automovel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:31:25.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Veiculo.cs",
+              "RelativeDocumentMoniker": "GestVeiculo\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Veiculo.cs",
+              "RelativeToolTip": "GestVeiculo\\Veiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:28:11.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Propriatario.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Propriatario.cs",
+              "RelativeDocumentMoniker": "GestVeiculo\\Propriatario.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Propriatario.cs",
+              "RelativeToolTip": "GestVeiculo\\Propriatario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:54:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Program.cs",
+              "RelativeDocumentMoniker": "GestVeiculo\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\GestVeiculo\\GestVeiculo\\Program.cs",
+              "RelativeToolTip": "GestVeiculo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:19:17.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

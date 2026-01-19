@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\bin\Debug\net8.0\Get_veiculos.exe
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\bin\Debug\net8.0\Get_veiculos.deps.json
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\bin\Debug\net8.0\Get_veiculos.runtimeconfig.json
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\bin\Debug\net8.0\Get_veiculos.dll
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\bin\Debug\net8.0\Get_veiculos.pdb
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\Get_veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\Get_veiculos.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\Get_veiculos.AssemblyInfo.cs
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\Get_veiculos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\Get_veiculos.dll
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\refint\Get_veiculos.dll
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\Get_veiculos.pdb
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\Get_veiculos.genruntimeconfig.cache
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Get_veiculos\Get_veiculos\obj\Debug\net8.0\ref\Get_veiculos.dll

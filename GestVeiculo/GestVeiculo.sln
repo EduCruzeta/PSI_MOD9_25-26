@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestVeiculo", "GestVeiculo\GestVeiculo.csproj", "{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C8E11E-D43B-4AAF-A4B0-185B77D8791F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24CB7C74-0CE2-4CC1-8F7F-C16D91DD355D}
+	EndGlobalSection
+EndGlobal

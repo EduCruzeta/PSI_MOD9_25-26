@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\bin\Debug\net8.0\Ex_1_mod_9.exe
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\bin\Debug\net8.0\Ex_1_mod_9.deps.json
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\bin\Debug\net8.0\Ex_1_mod_9.runtimeconfig.json
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\bin\Debug\net8.0\Ex_1_mod_9.dll
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\bin\Debug\net8.0\Ex_1_mod_9.pdb
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\Ex_1_mod_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\Ex_1_mod_9.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\Ex_1_mod_9.AssemblyInfo.cs
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\Ex_1_mod_9.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\Ex_1_mod_9.dll
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\refint\Ex_1_mod_9.dll
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\Ex_1_mod_9.pdb
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\Ex_1_mod_9.genruntimeconfig.cache
+C:\Users\eduar\Documents\psi 11ºano\Ex_1_mod_9\Ex_1_mod_9\obj\Debug\net8.0\ref\Ex_1_mod_9.dll

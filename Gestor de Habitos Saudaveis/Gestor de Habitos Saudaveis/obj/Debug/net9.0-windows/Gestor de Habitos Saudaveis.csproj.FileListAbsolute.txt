@@ -1,0 +1,32 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor_de_Habitos_Saudaveis.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\refint\Gestor de Habitos Saudaveis.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\ref\Gestor de Habitos Saudaveis.dll
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.exe
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.deps.json
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.runtimeconfig.json
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.dll
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\bin\Debug\net9.0-windows\Gestor de Habitos Saudaveis.pdb
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor_de_Habitos_Saudaveis.Form1.resources
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.csproj.GenerateResource.cache
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.AssemblyInfo.cs
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.dll
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\refint\Gestor de Habitos Saudaveis.dll
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.pdb
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\Gestor de Habitos Saudaveis.genruntimeconfig.cache
+C:\Users\eduar\Documents\psi 11ºano\Gestor de Habitos Saudaveis\Gestor de Habitos Saudaveis\obj\Debug\net9.0-windows\ref\Gestor de Habitos Saudaveis.dll

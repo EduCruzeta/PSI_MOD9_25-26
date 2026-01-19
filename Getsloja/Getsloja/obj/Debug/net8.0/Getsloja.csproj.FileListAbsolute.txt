@@ -1,0 +1,18 @@
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.AssemblyInfo.cs
+C:\Users\eduar\Documents\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\bin\Debug\net8.0\Getsloja.exe
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\bin\Debug\net8.0\Getsloja.deps.json
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\bin\Debug\net8.0\Getsloja.runtimeconfig.json
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\bin\Debug\net8.0\Getsloja.dll
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\bin\Debug\net8.0\Getsloja.pdb
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.AssemblyInfoInputs.cache
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.AssemblyInfo.cs
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.csproj.CoreCompileInputs.cache
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.dll
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\refint\Getsloja.dll
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.pdb
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\Getsloja.genruntimeconfig.cache
+C:\Users\EduardoCruz\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\psi 11ºano\Mod9\Getsloja\Getsloja\obj\Debug\net8.0\ref\Getsloja.dll

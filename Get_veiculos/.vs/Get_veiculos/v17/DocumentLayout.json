@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Get_veiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B36AC99-CF97-48C7-BA4F-A55978C8C16B}|Get_veiculos\\Get_veiculos.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\get_veiculos\\get_veiculos\\carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B36AC99-CF97-48C7-BA4F-A55978C8C16B}|Get_veiculos\\Get_veiculos.csproj|solutionrelative:get_veiculos\\carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B36AC99-CF97-48C7-BA4F-A55978C8C16B}|Get_veiculos\\Get_veiculos.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\get_veiculos\\get_veiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B36AC99-CF97-48C7-BA4F-A55978C8C16B}|Get_veiculos\\Get_veiculos.csproj|solutionrelative:get_veiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B36AC99-CF97-48C7-BA4F-A55978C8C16B}|Get_veiculos\\Get_veiculos.csproj|c:\\users\\eduar\\documents\\psi 11\u00BAano\\mod9\\get_veiculos\\get_veiculos\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B36AC99-CF97-48C7-BA4F-A55978C8C16B}|Get_veiculos\\Get_veiculos.csproj|solutionrelative:get_veiculos\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Get_veiculos\\Get_veiculos\\Motor.cs",
+              "RelativeDocumentMoniker": "Get_veiculos\\Motor.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Get_veiculos\\Get_veiculos\\Motor.cs",
+              "RelativeToolTip": "Get_veiculos\\Motor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:44:58.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carros.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Get_veiculos\\Get_veiculos\\Carros.cs",
+              "RelativeDocumentMoniker": "Get_veiculos\\Carros.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Get_veiculos\\Get_veiculos\\Carros.cs",
+              "RelativeToolTip": "Get_veiculos\\Carros.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:44:39.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Get_veiculos\\Get_veiculos\\Program.cs",
+              "RelativeDocumentMoniker": "Get_veiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\psi 11\u00BAano\\Mod9\\Get_veiculos\\Get_veiculos\\Program.cs",
+              "RelativeToolTip": "Get_veiculos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:44:04.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

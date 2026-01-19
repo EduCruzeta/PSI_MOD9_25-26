@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Gestor de Habitos Saudaveis/1.0.0": {
+        "runtime": {
+          "Gestor de Habitos Saudaveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestor de Habitos Saudaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

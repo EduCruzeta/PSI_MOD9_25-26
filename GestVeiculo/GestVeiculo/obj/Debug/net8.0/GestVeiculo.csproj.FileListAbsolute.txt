@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\GestVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\GestVeiculo.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\GestVeiculo.AssemblyInfo.cs
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\GestVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\bin\Debug\net8.0\GestVeiculo.exe
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\bin\Debug\net8.0\GestVeiculo.deps.json
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\bin\Debug\net8.0\GestVeiculo.runtimeconfig.json
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\bin\Debug\net8.0\GestVeiculo.dll
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\bin\Debug\net8.0\GestVeiculo.pdb
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\GestVeiculo.dll
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\refint\GestVeiculo.dll
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\GestVeiculo.pdb
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\GestVeiculo.genruntimeconfig.cache
+C:\Users\eduar\Documents\psi 11ºano\Mod9\GestVeiculo\GestVeiculo\obj\Debug\net8.0\ref\GestVeiculo.dll
